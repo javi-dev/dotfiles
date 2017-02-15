@@ -1,3 +1,5 @@
 # use separate file for username / github token / etc
 [include]
-  path = ~/.gitconfig.local
+	path = ~/.gitconfig.local
+[alias]
+	st = status
