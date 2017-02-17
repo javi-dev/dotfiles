@@ -1,3 +1,6 @@
+"------------------Plug-----------------"
+source $HOME/.vim/plug.vim
+
 "Enable syntax highlighting.
 syntax enable
 "Make backspace behave like every other editor.
@@ -29,3 +32,4 @@ augroup autosourcing
 	autocmd!
 	autocmd BufWritePost .vimrc source %
 augroup END
+
