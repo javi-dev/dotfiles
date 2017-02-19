@@ -13,6 +13,7 @@ endif
 call plug#begin('$HOME/.vim/plugged')
 
 " Make sure you use single quotes
+Plug 'gosukiwi/vim-atom-dark'
 
 " Initialize plugin system
 call plug#end()
