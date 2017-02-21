@@ -8,3 +8,10 @@ colorscheme atom-dark
 set guifont=Fira\ Code\ 15
 "Line-height.
 set linespace=15
+
+"-----------------Window-----------------"
+"Hide the left and right scrollbars on windows and splits
+set guioptions-=l
+set guioptions-=L
+set guioptions-=r
+set guioptions-=R
