@@ -87,6 +87,3 @@ source $ZSH/oh-my-zsh.sh
 # Include Z, yo
 . ~/z.sh
 
-# consolidation/cgr workaround https://github.com/consolidation/cgr/issues/10
-export COMPOSER_HOME="$HOME/.config/composer/"
-
