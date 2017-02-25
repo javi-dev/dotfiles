@@ -24,6 +24,16 @@ set incsearch
 "Ignore case.
 set ignorecase
 
+"------------Split Management------------"
+"I prefer to open new splits below and to the right.
+set splitbelow
+set splitright
+"I don't want to have to press <C-W> to move between splits.
+nmap <C-H> <C-W><C-H>
+nmap <C-J> <C-W><C-J>
+nmap <C-K> <C-W><C-K>
+nmap <C-L> <C-W><C-L>
+
 "----------------Mappings----------------"
 "Make it easy to edit the Vimrc file.
 nmap <Leader>ev :tabedit $MYVIMRC<cr>
