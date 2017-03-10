@@ -34,6 +34,9 @@ nmap <C-J> <C-W><C-J>
 nmap <C-K> <C-W><C-K>
 nmap <C-L> <C-W><C-L>
 
+"--------------Indentation---------------"
+filetype plugin indent on
+
 "----------------Mappings----------------"
 "Make it easy to edit the Vimrc file.
 nmap <Leader>ev :tabedit $MYVIMRC<cr>
