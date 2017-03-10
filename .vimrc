@@ -13,7 +13,9 @@ let mapleader=','
 set t_Co=256
 "Terminal Vim uses the atom-dark 256 color version
 colorscheme atom-dark-256
-"Let's activate line numbers.
+"Let's activate relative line numbers.
+set relativenumber
+"But show the current line number.
 set number
 
 "-----------------Search-----------------"
