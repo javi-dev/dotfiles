@@ -5,7 +5,7 @@ colorscheme atom-dark
 
 "-----------------Font-------------------"
 "Set font type and font size.
-set guifont=Fira\ Code\ 15
+set guifont=Fira\ Code\ 10
 "Line-height.
 set linespace=15
 
