@@ -44,6 +44,9 @@ filetype plugin indent on
 nmap <Leader>ev :tabedit $MYVIMRC<cr>
 "Clear the highlighted search.
 nmap <Leader><space> :nohlsearch<cr>
+"Sort lines by length
+"http://stackoverflow.com/questions/11531073/how-do-you-sort-a-range-of-lines-by-length
+vmap <Leader>sl ! awk '{ print length(), $0 \| "sort -n \| cut -d\\  -f2-" }'<cr>
 
 "--------------Auto-Commands--------------"
 "Automatically source the Vimrc file on save.
