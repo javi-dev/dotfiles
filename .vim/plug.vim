@@ -15,6 +15,7 @@ call plug#begin('$HOME/.vim/plugged')
 " Make sure you use single quotes
 Plug 'gosukiwi/vim-atom-dark'
 Plug 'tpope/vim-surround'
+Plug 'mattn/emmet-vim'
 
 " Initialize plugin system
 call plug#end()
