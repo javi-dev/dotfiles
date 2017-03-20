@@ -1,5 +1,6 @@
-"------------------Plug-----------------"
+"------------------Plugins-----------------"
 source $HOME/.vim/plug.vim
+source $HOME/.vim/plugins.vim
 
 "Enable syntax highlighting.
 syntax enable
