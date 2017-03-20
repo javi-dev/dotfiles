@@ -16,6 +16,7 @@ call plug#begin('$HOME/.vim/plugged')
 Plug 'gosukiwi/vim-atom-dark'
 Plug 'tpope/vim-surround'
 Plug 'mattn/emmet-vim'
+Plug 'vim-syntastic/syntastic'
 
 " Initialize plugin system
 call plug#end()
