@@ -18,6 +18,7 @@ Plug 'tpope/vim-surround'
 Plug 'mattn/emmet-vim'
 Plug 'vim-syntastic/syntastic'
 Plug 'pangloss/vim-javascript'
+Plug 'posva/vim-vue'
 
 " Initialize plugin system
 call plug#end()
