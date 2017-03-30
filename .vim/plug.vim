@@ -17,9 +17,8 @@ Plug 'gosukiwi/vim-atom-dark'
 Plug 'tpope/vim-surround'
 Plug 'mattn/emmet-vim'
 Plug 'vim-syntastic/syntastic'
-Plug 'pangloss/vim-javascript'
-Plug 'posva/vim-vue'
 Plug 'ctrlpvim/ctrlp.vim'
+Plug 'sheerun/vim-polyglot'
 
 " Initialize plugin system
 call plug#end()
