@@ -89,3 +89,5 @@ source $ZSH/oh-my-zsh.sh
 # Include Z, yo
 . ~/z.sh
 
+# Alias hub as git
+eval "$(hub alias -s)"
