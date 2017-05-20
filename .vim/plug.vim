@@ -19,6 +19,7 @@ Plug 'mattn/emmet-vim'
 Plug 'vim-syntastic/syntastic'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'sheerun/vim-polyglot'
+Plug 'arnaud-lb/vim-php-namespace'
 
 " Initialize plugin system
 call plug#end()
