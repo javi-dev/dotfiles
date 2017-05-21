@@ -20,6 +20,7 @@ Plug 'vim-syntastic/syntastic'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'arnaud-lb/vim-php-namespace'
+Plug 'SirVer/ultisnips'
 
 " Initialize plugin system
 call plug#end()
