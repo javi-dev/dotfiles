@@ -53,3 +53,6 @@ let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 
 " If you want :UltiSnipsEdit to split your window.
 let g:UltiSnipsEditSplit="vertical"
+
+" Workaround for .dotfiles folder
+let g:UltiSnipsSnippetDirectories = ['~/.dotfiles/.vim/UltiSnips', 'UltiSnips']
