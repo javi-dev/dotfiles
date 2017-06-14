@@ -1,0 +1,27 @@
+snippet test "phpunit test"
+/** @test */
+function $1()
+{
+    $2
+}
+endsnippet
+
+snippet fun "php function"
+${1:public} function $2()
+{
+    $3
+}
+endsnippet
+
+snippet ignore "phpcs ignore file"
+// @codingStandardsIgnoreFile
+endsnippet
+
+snippet con "php constructor with a property"
+private $${1:PROPERTY};
+
+public function __construct($$1)
+{
+    $this->$1 = $$1;
+}
+endsnippet
