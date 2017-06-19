@@ -11,14 +11,6 @@ let g:syntastic_auto_loc_list = 0
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
-" Syntastic JavaScript
-" Use standard
-let g:syntastic_javascript_checkers = ['standard']
-
-" Use standard to automatically format on save
-autocmd bufwritepost *.js silent !standard --fix %
-set autoread
-
 " Syntastic PHP
 " Use psr-2
 
