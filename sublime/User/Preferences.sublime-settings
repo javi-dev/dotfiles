@@ -1,0 +1,25 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Facebook.tmTheme",
+	"font_face": "Fira Code",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme.sublime-theme",
+	"vintageous_use_ctrl_keys": true,
+    // Additional spacing at the top of each line, in pixels
+    "line_padding_top": 10,
+
+    // Additional spacing at the bottom of each line, in pixels
+    "line_padding_bottom": 10,
+}
