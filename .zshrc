@@ -92,3 +92,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Alias hub as git
 eval "$(hub alias -s)"
+
+# The COMPOSER_HOME var allows you to change the Composer home directory.
+# This is a hidden, global (per-user on the machine) directory that is shared between all projects.
+export COMPOSER_HOME=$HOME/.config/composer
