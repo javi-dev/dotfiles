@@ -1,4 +1,8 @@
 [
+	{ "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+	{ "keys": ["alt+shift+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+shift+down"], "command": "swap_line_down" },
+
 	{ "keys": ["ctrl+keypad_divide"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+keypad_divide"], "command": "toggle_comment", "args": { "block": true } },
 
@@ -10,9 +14,9 @@
 	{ "keys": ["ctrl+j"], "command": "travel_to_pane", "args": {"direction": "down"} },
 	{ "keys": ["ctrl+h"], "command": "travel_to_pane", "args": {"direction": "left"} },	
 
-	{ "keys": [":", "v", "s", "p"], "command": "create_pane", "args": {"direction": "right", "give_focus": true} },
-	{ "keys": [":", "s", "p"], "command": "create_pane", "args": {"direction": "down", "give_focus": true} },
-	{ "keys": [":", "b", "d"], "command": "destroy_pane", "args": {"direction": "self"} },
+	// { "keys": [":", "v", "s", "p"], "command": "create_pane", "args": {"direction": "right", "give_focus": true} },
+	// { "keys": [":", "s", "p"], "command": "create_pane", "args": {"direction": "down", "give_focus": true} },
+	// { "keys": [":", "b", "d"], "command": "destroy_pane", "args": {"direction": "self"} },
 
 	{ "keys": [",", "n"], "command": "find_use" },
 	{ "keys": [",", "f"], "command": "expand_fqcn" },
