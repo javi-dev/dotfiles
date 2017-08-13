@@ -21,6 +21,9 @@ Plug 'ctrlpvim/ctrlp.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'arnaud-lb/vim-php-namespace'
 Plug 'SirVer/ultisnips'
-
+" post install (yarn install | npm install) then load plugin only for editing supported files
+Plug 'mitermayer/vim-prettier', {
+    \ 'do': 'npm install',
+    \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss'] }
 " Initialize plugin system
 call plug#end()

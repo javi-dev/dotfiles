@@ -48,3 +48,13 @@ let g:UltiSnipsEditSplit="vertical"
 
 " Workaround for .dotfiles folder
 let g:UltiSnipsSnippetDirectories = ['~/.dotfiles/.vim/UltiSnips', 'UltiSnips']
+
+"/
+" Prettier
+" /
+" when running at every change you may want to disable quickfix
+let g:prettier#quickfix_enabled = 0
+
+let g:prettier#autoformat = 0
+autocmd BufWritePre *.js,*.css,*.scss,*.less PrettierAsync
+autocmd BufWritePre *.vue :/<script>/+1,/<\/script>/-1 !prettier --stdin
