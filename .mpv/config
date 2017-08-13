@@ -1,0 +1,3 @@
+hwdec=auto
+# vo=opengl
+profile=opengl-hq
