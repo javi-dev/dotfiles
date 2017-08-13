@@ -7,14 +7,18 @@
 	[
 		"A File Icon",
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"Colorsublime",
 		"Emmet",
+		"JsPrettier",
 		"Material Theme",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP Companion",
+		"Phpcs",
 		"Vintageous",
-		"VintageousPluginSurround"
+		"VintageousPluginSurround",
+		"Vue Syntax Highlight"
 	]
 }
