@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Fira Code",
 	"font_size": 11,
 	"ignored_packages":
@@ -17,6 +18,9 @@
 	"line_padding_bottom": 6,
 	"line_padding_top": 6,
 	"overlay_scroll_bars": "enabled",
+	"save_on_focus_lost": true,
 	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true
 }
