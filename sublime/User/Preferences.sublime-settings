@@ -14,8 +14,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 10,
-	"line_padding_top": 10,
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
 	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme.sublime-theme",
 	"vintageous_use_ctrl_keys": true
