@@ -1,7 +1,8 @@
 <snippet>
 	<content><![CDATA[
 /** @test */
-function ${1:the_one_where} () {
+function ${1:the_one_where}()
+{
 	${2:}
 }
 ]]></content>
