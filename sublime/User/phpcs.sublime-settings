@@ -3,4 +3,8 @@
     "phpcs_executable_path": "/home/jaquanor/.config/composer/vendor/bin/phpcs",
     "php_cs_fixer_executable_path": "/home/jaquanor/.config/composer/vendor/bin/php-cs-fixer",
     "phpcbf_executable_path": "/home/jaquanor/.config/composer/vendor/bin/phpcbf",
+    "php_cs_fixer_on_save": true,
+    "php_cs_fixer_additional_args": {
+        "--config": "/home/jaquanor/.dotfiles/.php_cs"
+    }
 }
