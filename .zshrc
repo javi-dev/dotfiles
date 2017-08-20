@@ -3,6 +3,7 @@ export PATH=$HOME/bin:/usr/local/bin:$HOME/.config/composer/vendor/bin:$PATH
 path+=('node_modules/.bin')
 path+=('vendor/bin')
 path+=("$HOME/.config/yarn/global/node_modules/.bin")
+path+=("/opt/asf")
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
