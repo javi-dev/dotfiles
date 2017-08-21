@@ -89,7 +89,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Include Z, yo
-. ~/z.sh
+. /usr/local/bin/z.sh
 
 # Alias hub as git
 eval "$(hub alias -s)"
