@@ -100,3 +100,4 @@ export COMPOSER_HOME=$HOME/.config/composer
 
 # Aliases
 alias asf=ArchiSteamFarm
+alias nah='git reset --hard;git clean -df'
