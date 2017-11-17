@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$user = factory(User::class)->create();
+]]></content>
+<tabTrigger>newuser</tabTrigger>
+<description>Factory create a new user</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php, punctuation.terminator.expression.php</scope>
+</snippet>
