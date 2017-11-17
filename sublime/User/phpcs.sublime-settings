@@ -6,5 +6,6 @@
     "php_cs_fixer_on_save": true,
     "php_cs_fixer_additional_args": {
         "--config": "/home/jaquanor/.dotfiles/.php_cs"
-    }
+    },
+    "phpcs_show_errors_on_save": false,
 }
