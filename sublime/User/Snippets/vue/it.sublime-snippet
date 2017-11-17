@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+it("${1:does the thing}", () => {
+    ${2}
+});
+]]></content>
+<tabTrigger>it</tabTrigger>
+<description>new behaviour</description>
+<scope>source.js</scope>
+</snippet>

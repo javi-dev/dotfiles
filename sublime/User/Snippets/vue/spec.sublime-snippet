@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+import { mount } from "vue-test-utils";
+import expect from "expect";
+import ${1:Component} from "../src/components/${1:Component}.vue";
+
+describe("${1:Component}", () => {
+   ${2}
+});
+]]></content>
+<tabTrigger>spec</tabTrigger>
+<description>Create spec</description>
+<scope>source.js, meta.import.js</scope>
+</snippet>

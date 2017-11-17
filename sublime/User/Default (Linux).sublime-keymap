@@ -9,10 +9,10 @@
 	{ "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
 	{ "keys": ["shift+ctrl+alt+n"], "command": "advanced_new_file_new", "args": {"is_python": true} },
 
-	{ "keys": ["ctrl+k"], "command": "travel_to_pane", "args": {"direction": "up"} },
-	{ "keys": ["ctrl+l"], "command": "travel_to_pane", "args": {"direction": "right"} },
-	{ "keys": ["ctrl+j"], "command": "travel_to_pane", "args": {"direction": "down"} },
-	{ "keys": ["ctrl+h"], "command": "travel_to_pane", "args": {"direction": "left"} },	
+	// { "keys": ["ctrl+k"], "command": "travel_to_pane", "args": {"direction": "up"} },
+	// { "keys": ["ctrl+l"], "command": "travel_to_pane", "args": {"direction": "right"} },
+	// { "keys": ["ctrl+j"], "command": "travel_to_pane", "args": {"direction": "down"} },
+	// { "keys": ["ctrl+h"], "command": "travel_to_pane", "args": {"direction": "left"} },
 
 	// { "keys": [":", "v", "s", "p"], "command": "create_pane", "args": {"direction": "right", "give_focus": true} },
 	// { "keys": [":", "s", "p"], "command": "create_pane", "args": {"direction": "down", "give_focus": true} },
