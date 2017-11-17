@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/** @test */
+function ${1:the_one_where}()
+{
+	${2:}
+}
+]]></content>
+	<tabTrigger>test</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
