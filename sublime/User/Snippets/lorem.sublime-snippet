@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan pretium risus, id bibendum sapien bibendum et. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent fringilla nunc eget neque elementum dictum. Vivamus eu dolor quis metus faucibus tincidunt. Pellentesque eget lacinia quam. Quisque non aliquet lorem. Nulla facilisi. Nullam in justo eget urna vestibulum volutpat sed a ligula.</p>
+
+<p>Praesent quis ex et justo pretium rhoncus eget facilisis risus. Nam tempor erat eget porttitor facilisis. Nulla euismod elit nec diam tempor volutpat. Vestibulum dui nibh, lacinia non turpis quis, ultrices consequat risus. Morbi mattis finibus velit, vitae elementum neque ultricies nec. Mauris iaculis arcu sed justo commodo, sit amet euismod orci pellentesque. Vivamus blandit elementum tellus, lacinia lobortis mi dapibus et. Maecenas sit amet justo egestas, iaculis urna eleifend, feugiat purus. In posuere eros dolor, sed iaculis magna finibus ut. Sed lorem elit, tristique vel ante sed, ultricies molestie ipsum. Quisque sed efficitur odio, iaculis sagittis quam. Quisque vel iaculis neque. Nullam egestas dignissim arcu, et malesuada mi blandit id. Fusce dictum tempus dui sit amet feugiat. Donec porttitor enim felis, suscipit ornare felis viverra et.</p>
+
+<p>Nullam quis accumsan orci. Nam imperdiet ullamcorper massa quis consectetur. Nam tempor maximus elit eget sodales. Aliquam imperdiet erat nec molestie tincidunt. Morbi eget facilisis lorem. Sed ornare ullamcorper dui nec tincidunt. Morbi cursus tempus rutrum. Duis venenatis elit eu neque pharetra, sed malesuada ligula ultricies. Duis vel erat porttitor, molestie erat dignissim, convallis velit. Sed ut mi vel tortor scelerisque consectetur eu ut dolor. Vivamus hendrerit ullamcorper ex a cursus.<p><p>Quisque tincidunt congue lorem, eu dictum nunc placerat auctor. In nec mauris quam. Donec lobortis vel est eget blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam mi magna, viverra at accumsan sed, mollis non orci. Aenean feugiat malesuada tortor et lacinia. Nunc tristique pellentesque nisl sed accumsan. Morbi sit amet auctor orci, non semper turpis.</p>
+
+<p>Curabitur pulvinar scelerisque tortor vitae ornare. Praesent at euismod lorem. Quisque tellus dui, accumsan in orci sed, venenatis tristique nisl. Curabitur facilisis rhoncus magna et convallis. Vivamus efficitur consectetur pretium. Etiam consequat metus sit amet tellus ornare, id ultrices metus accumsan. Fusce convallis nibh vitae sollicitudin sollicitudin. Pellentesque feugiat efficitur blandit. Suspendisse vel libero ex. Mauris finibus quis risus non aliquet. In hac habitasse platea dictumst. Morbi eros dolor, tristique id aliquam sed, auctor at ligula. Donec mollis velit quam, et viverra ante efficitur vel.</p>
+]]></content>
+<tabTrigger>lorem</tabTrigger>
+<description>Lorem Ipsum</description>
+<scope></scope>
+</snippet>
