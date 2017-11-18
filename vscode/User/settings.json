@@ -6,5 +6,6 @@
     "workbench.activityBar.visible": false,
     "editor.fontFamily": "'Fira Code','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "workbench.colorTheme": "Material Theme",
-    "editor.lineHeight": 33
+    "editor.lineHeight": 33,
+    "keyboard.dispatch": "keyCode"
 }
