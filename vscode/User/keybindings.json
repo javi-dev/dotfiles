@@ -15,5 +15,15 @@
     {
         "key": "meta+k meta+p",
         "command": "-better-phpunit.run-previous"
+    },
+    {
+        "key": "alt+enter",
+        "command": "editor.action.showContextMenu",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+f12",
+        "command": "-editor.action.showContextMenu",
+        "when": "editorTextFocus"
     }
 ]
