@@ -1,2 +1,3 @@
 code --install-extension ms-vscode.sublime-keybindings
 code --install-extension Equinusocio.vsc-material-theme
+code --install-extension patbenatar.advanced-new-file
