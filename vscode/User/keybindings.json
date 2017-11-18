@@ -1,0 +1,19 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "ctrl+k ctrl+t",
+        "command": "better-phpunit.run"
+    },
+    {
+        "key": "meta+k meta+r",
+        "command": "-better-phpunit.run"
+    },
+    {
+        "key": "ctrl+k ctrl+p",
+        "command": "better-phpunit.run-previous"
+    },
+    {
+        "key": "meta+k meta+p",
+        "command": "-better-phpunit.run-previous"
+    }
+]
