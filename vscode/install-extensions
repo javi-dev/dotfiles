@@ -10,3 +10,4 @@ code --install-extension calebporzio.better-phpunit
 code --install-extension junstyle.php-cs-fixer
 code --install-extension octref.vetur
 code --install-extension wix.vscode-import-cost
+code --install-extension esbenp.prettier-vscode
