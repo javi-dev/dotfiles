@@ -8,3 +8,4 @@ code --install-extension nikitaKunevich.snippet-creator
 code --install-extension ryannaddy.laravel-artisan
 code --install-extension calebporzio.better-phpunit
 code --install-extension junstyle.php-cs-fixer
+code --install-extension octref.vetur
