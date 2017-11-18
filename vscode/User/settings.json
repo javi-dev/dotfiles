@@ -9,5 +9,9 @@
     "editor.lineHeight": 33,
     "keyboard.dispatch": "keyCode",
     "php-cs-fixer.config": "/home/jaquanor/.dotfiles/.php_cs",
-    "php-cs-fixer.onsave": true
+    "php-cs-fixer.onsave": true,
+    "importCost.typescriptExtensions": [
+        "\\.tsx?$",
+        "\\.vue?$"
+    ]
 }
