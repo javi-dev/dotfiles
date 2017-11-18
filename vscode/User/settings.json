@@ -7,5 +7,7 @@
     "editor.fontFamily": "'Fira Code','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "workbench.colorTheme": "Material Theme",
     "editor.lineHeight": 33,
-    "keyboard.dispatch": "keyCode"
+    "keyboard.dispatch": "keyCode",
+    "php-cs-fixer.config": "/home/jaquanor/.dotfiles/.php_cs",
+    "php-cs-fixer.onsave": true
 }
