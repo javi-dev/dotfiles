@@ -4,5 +4,6 @@
     "editor.snippetSuggestions": "top",
     "editor.formatOnPaste": true,
     "workbench.activityBar.visible": false,
-    "editor.fontFamily": "'Fira Code','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+    "editor.fontFamily": "'Fira Code','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorTheme": "Material Theme",
 }
